@@ -1,0 +1,8 @@
+{
+	"id": "test-ui-extension",
+	"name": "Test UI Extension",
+	"srcdoc": "./index.html",
+	"fieldTypes": [
+		"Symbol"
+	]
+}
